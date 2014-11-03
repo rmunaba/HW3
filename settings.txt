@@ -1,0 +1,30 @@
+Cutting Settings
+
+| Color | Power | Speed | Freq |
+--------------------------------
+| Test1 |  100%   | 1%    | 6000 |
+
+
+Engraving Settings
+
+| Color | Power | Speed | Freq |
+--------------------------------
+| Test2 |   40%   | 1%    | 6000 |
+
+----
+
+Cutting Results
+
+| Color  | Cut through?  | Scorch marks on front? | Scorch marks on back? |
+--------------------------------------------------------------------------
+| Test1 | Yes            | No                     | Yes                   |
+
+
+Engraving Results
+
+| Color  | Quality (No mark, light, readable, scorched, burned through)   |
+--------------------------------------------------------------------------
+| Test2 | No engraving marks/fuzzy fields                                 |
+
+**Printer interface was very different.
+
